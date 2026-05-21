@@ -1,48 +1,104 @@
 # Hi 👋, I'm Arun
 
-🎓 B.Tech CSE Student  
-💻 Aspiring Software Developer  
-🌱 Currently learning Web Development & AI/ML  
-🚀 Passionate about coding and building projects  
+<h3 align="center">B.Tech CSE Graduate | AI/ML Enthusiast | Full Stack Developer | Java & DSA</h3>
 
 ---
 
-## 🌐 Portfolio
+## 🚀 About Me
+
+- 🎓 B.Tech Graduate in Computer Science & Engineering
+- 💻 Passionate Full Stack Developer
+- 🤖 Interested in AI/ML & Python Development
+- ☕ Practicing Java & DSA
+- 🌱 Currently learning advanced web technologies
+- 🚀 Love building real-world projects
+
+---
+
+# 🌐 Portfolio
+
 🔗 https://arun-portfolio-sand.vercel.app/
 
-## 🔗 Connect With Me
-- LinkedIn: https://linkedin.com/in/arun-arun-a51a94284
-- HackerRank: https://www.hackerrank.com/profile/arunkumar9195cse
+---
+
+# 🔗 Connect With Me
+
+- 💼 LinkedIn  
+  https://linkedin.com/in/arun-arun-a51a94284
+
+- 🧑‍💻 HackerRank  
+  https://www.hackerrank.com/profile/arunkumar9195cse
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
 - C
 - Java
 - Python
+- JavaScript
+
+## 🌐 Web Development
 - HTML
 - CSS
-- JavaScript
-- React
-- Git & GitHub
+- React JS
+- Node.js
+- Express.js
+
+## 🤖 AI/ML
+- Machine Learning
+- OpenCV
+- CNN Models
+- Data Analysis
+
+## 🛠 Tools
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 Flipkart Clone
+## 🌐 Arun Portfolio
+Modern responsive portfolio website built using React.
+
+## 🤖 LiteAI Local Assistant
+AI assistant powered by Flask and Hugging Face models.
+
+## 🛒 Flipkart Clone
 E-commerce frontend clone using HTML, CSS & JavaScript.
 
-### 🧘 Yoga Recommendation System
-AI/ML based system for yoga recommendations.
+## 🎥 Intrusion Detection System
+CNN & QNN based intelligent security system.
 
-### 🎥 Object Detection System
-Real-time object detection and counting from video.
+## 🧠 AI Image Classification
+AI-powered image classification system using Python.
+
+## 📝 Social Blog Platform
+Modern blogging platform with authentication system.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=9696arun&show_icons=true)
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=9696arun&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9696arun&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9696arun&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=9696arun&theme=tokyonight)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=9696arun&color=blue)
+
+---
+
+<h3 align="center">⭐ Code • Learn • Build • Repeat ⭐</h3>
